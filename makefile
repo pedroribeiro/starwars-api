@@ -1,3 +1,6 @@
+build: # Build an executable on bin folder
+	@go build -o ./starwars-api ./cmd/main.go
+
 install: # install dependencies
 	@go mod tidy
 
