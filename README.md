@@ -27,7 +27,7 @@ body schema exemple:
 
 DELETE ROUTES
 
-- /plantes?id=_planet id_ (delete planet by ID)
+- /plantes?id=<_planet id_> (delete planet by ID)
 
 ## Install
 
